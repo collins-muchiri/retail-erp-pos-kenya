@@ -1,5 +1,11 @@
 # DukaFlow - Kenya Retail ERP + POS
 
+*Kenya-ready retail ERP + POS — offline-first multi-store, KRA eTIMS, M-Pesa, loyalty and debt plans; TypeScript.*
+
+![category](https://img.shields.io/badge/category-erp-pos-F59E0B?style=flat-square) ![language](https://img.shields.io/badge/language-TypeScript-2563EB?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-retail--erp--pos--kenya-111827?style=flat-square)
+
+---
+
 **retail-erp-pos-kenya** - a production-ready, offline-first retail ERP + POS built for Kenyan hardware stores and supermarkets. Multi-store, KRA eTIMS-ready receipts, M-Pesa STK Push, loyalty & gift cards, debt plans with POS blocking, Kenya-compliant payroll (PAYE 2024 / NSSF / SHIF / Housing Levy / HELB), in-house Raven chat and SMS/WhatsApp blasts.
 
 > Built as a modern full-stack alternative to Frappe/ERPNext for this use case: **Next.js 16 (App Router) · TypeScript · Tailwind CSS 4 · shadcn/ui · Prisma + SQLite · Recharts · IndexedDB offline queue**.
